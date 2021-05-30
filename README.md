@@ -1,3 +1,4 @@
-![Untitled](https://user-images.githubusercontent.com/80326351/117586140-eee43300-b11e-11eb-981c-90f996f957d7.png)
+![hrms](https://user-images.githubusercontent.com/80326351/120101563-48081b00-c14f-11eb-8bb7-ce06b4304d2e.png)
+
 
 # hrms
